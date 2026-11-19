@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Ahmed Kamal👋</h1>
   <h3>Software Developer • Tech Company Owner • Full-Stack Engineering Lead</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
