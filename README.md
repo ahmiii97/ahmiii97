@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Ahmed Kamal👋</h1>
   <h3>Software Developer • Tech Company Owner • Full-Stack Engineering Lead</h3>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ahmiii97&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
@@ -71,29 +71,17 @@ I am a **software developer and software company owner** operating with a **comp
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ahmiii97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmiii97&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </div>
 
 ---
 
-## 📌 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Featured Repo 1" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Featured Repo 2" />
-  </a>
-</div>
-
----
 
 ## 🤝 Let's Build Your Next Project
 
